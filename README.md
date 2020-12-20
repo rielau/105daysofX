@@ -17,4 +17,4 @@ Hopefully we will be able to meet by the time this challenge ends.
 ## Inserting a Content Page to keep track
 | # | Date | Project Title |
 | - | ---- | ------------------- |
-| Day 1 | 2020-12-20 | [K Means Clustering](https://github.com/rielau/100daysofX/k-means) |
+| Day 1 | 2020-12-20 | [K Means Clustering](https://github.com/rielau/100daysofX/tree/main/k-means) |
