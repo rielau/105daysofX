@@ -1,10 +1,10 @@
 # 105daysofX
 Inspired to start a challenge.
-Is it true 21 days make a habit?
-Doesn't matter. Do what you like and keep moving forward.
+Is it true that it takes 21 days to build a habit?<br />
+Doesn't matter how long it takes. Do what you like and keep moving forward.<br />
 
-There are some codes that was used for practice in my study folders so I'll 
-probably look through them and upload it little by little.
+There are some codes that was used for practice in my study folders so <br/> 
+I'll probably look through them and upload it little by little. <br />
 Who knows if I actually keep up right?
 
 It might be a random mixture of things...
@@ -17,4 +17,5 @@ Hopefully we will be able to meet by the time this challenge ends.
 ## Inserting a Content Page to keep track
 | # | Date | Project Title |
 | - | ---- | ------------------- |
-| Day 1 | 2020-12-20 | [K Means Clustering](https://github.com/rielau/100daysofX/k-means) |
+| Day 1 | 2020-12-20 | [K Means Clustering](https://github.com/rielau/105daysofX/tree/main/k-means) |
+| Day 2 | 2020-12-21 | [Logistic Regression](https://github.com/rielau/100daysofX/tree/main/logistic-regression) |
