@@ -19,3 +19,4 @@ Hopefully we will be able to meet by the time this challenge ends.
 | - | ---- | ------------------- |
 | Day 1 | 2020-12-20 | [K Means Clustering](https://github.com/rielau/105daysofX/tree/main/k-means) |
 | Day 2 | 2020-12-21 | [Logistic Regression](https://github.com/rielau/105daysofX/tree/main/logistic-regression) |
+| Day 3 | 2020-12-22 | [Linear Regression](https://github.com/rielau/105daysofX/tree/main/linear-regression) |
