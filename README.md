@@ -23,4 +23,4 @@ Hopefully we will be able to meet by the time this challenge ends.
 | Day 4 | 2020-12-25 | [Decision Tree](https://github.com/rielau/105daysofX/tree/main/decision-tree) |
 | Day 5 | 2020-12-29 | [Decision Tree + Regression](https://github.com/rielau/105daysofX/tree/main/decision-tree) |
 | Day 6 | 2020-12-30 | [Random Forest](https://github.com/rielau/105daysofX/tree/main/random-forest) |
-| Day 7 | 2020-12-31 | [Random Forest](https://github.com/rielau/105daysofX/tree/main/SVM) |
+| Day 7 | 2020-12-31 | [Support Vector Machine](https://github.com/rielau/105daysofX/tree/main/SVM) |
