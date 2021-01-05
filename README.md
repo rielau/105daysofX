@@ -24,5 +24,6 @@ Hopefully we will be able to meet by the time this challenge ends.
 | Day 5 | 2020-12-29 | [Decision Tree + Regression](https://github.com/rielau/105daysofX/tree/main/decision-tree) |
 | Day 6 | 2020-12-30 | [Random Forest](https://github.com/rielau/105daysofX/tree/main/random-forest) |
 | Day 7 | 2020-12-31 | [Support Vector Machine](https://github.com/rielau/105daysofX/tree/main/SVM) |
-| Day 8 | 2021-01-03 | [Deep Learning with Pytorch](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
+| Day 8 | 2021-01-03 | [Deep Learning with Pytorch: BuildingBlockNN](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
 | Day 9 | 2021-01-04 | [Tensors, FirstNN ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
+| Day 10 | 2021-01-05 | [FundamentalNN ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
