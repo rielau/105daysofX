@@ -28,3 +28,4 @@ Hopefully we will be able to meet by the time this challenge ends.
 | Day 9 | 2021-01-04 | [Tensors, FirstNN ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
 | Day 10 | 2021-01-05 | [FundamentalNN ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
 | Day 11 | 2021-01-06 | [DogVsCat ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
+| Day 12 | 2021-01-07 | [MNIST with CNN ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
