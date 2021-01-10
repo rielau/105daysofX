@@ -31,3 +31,4 @@ Hopefully we will be able to meet by the time this challenge ends.
 | Day 12 | 2021-01-07 | [MNIST with CNN ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
 | Day 13 | 2021-01-08 | [DogVsCat with CNN ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
 | Day 14 | 2021-01-09 | [One Hot, Sentiment Classifier ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
+| Day 15 | 2021-01-10 | [Text Classifier LSTM ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
