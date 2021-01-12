@@ -33,3 +33,4 @@ Hopefully we will be able to meet by the time this challenge ends.
 | Day 14 | 2021-01-09 | [One Hot, Sentiment Classifier ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
 | Day 15 | 2021-01-10 | [Text Classifier LSTM ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
 | Day 16 | 2021-01-11 | [Style Transfer ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
+| Day 17 | 2021-01-12 | [Language Modelling ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
