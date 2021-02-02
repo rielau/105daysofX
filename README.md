@@ -35,4 +35,4 @@ Hopefully we will be able to meet by the time this challenge ends.
 | Day 16 | 2021-01-11 | [Style Transfer ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
 | Day 17 | 2021-01-12 | [Language Modelling ](https://github.com/rielau/105daysofX/tree/main/deep-learning-with-pytorch) |
 | Day 18 | 2021-01-25 | [Chapter 1](https://github.com/rielau/105daysofX/tree/main/pytorch-receipes) |
-
+| Day 19 | 2021-02-02 | [Python & SQL](https://github.com/rielau/105daysofX/tree/main/Fundamentals) |
