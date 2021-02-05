@@ -37,3 +37,6 @@ Hopefully we will be able to meet by the time this challenge ends.
 | Day 18 | 2021-01-25 | [Chapter 1](https://github.com/rielau/105daysofX/tree/main/pytorch-receipes) |
 | Day 19 | 2021-02-02 | [Python & SQL](https://github.com/rielau/105daysofX/tree/main/Fundamentals) |
 | Day 20 | 2021-02-03 | [Software engineering](https://github.com/rielau/105daysofX/tree/main/Fundamentals) |
+| Day 21 | 2021-02-04 | [Data Science Reading](https://github.com/rielau/105daysofX/tree/main/Fundamentals) |
+| Day 22 | 2021-02-05 | [Data Science Reading](https://github.com/rielau/105daysofX/tree/main/Fundamentals) |
+| Day 23 | 2021-02-06 | [Data Science Reading](https://github.com/rielau/105daysofX/tree/main/Fundamentals) |
