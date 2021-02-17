@@ -42,3 +42,6 @@ Hopefully we will be able to meet by the time this challenge ends.
 | Day 23 | 2021-02-06 | [Data Science Reading](https://github.com/rielau/105daysofX/tree/main/Fundamentals) |
 | Day 24 | 2021-02-07 | [Data Science Reading](https://github.com/rielau/105daysofX/tree/main/Fundamentals) |
 | Day 25 | 2021-02-08 | [Data Science Reading](https://github.com/rielau/105daysofX/tree/main/Fundamentals) |
+Oh goshhh...
+Got a little too busy with studying with the books/cousera/udemy and also teaching~~~ 
+Hope I can continue again next time. Will be taking a break for abit!
